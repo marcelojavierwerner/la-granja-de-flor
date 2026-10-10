@@ -1,46 +1,34 @@
-# 📸 La Granja de Flor - Screenshots & Assets
+¡Claro que sí! Acá tenés el contenido listo en formato de bloque Markdown para que lo puedas copiar y pegar directamente:
 
-This directory contains the visual showcase and screenshot assets used for the project's documentation, marketing, and main repository `README.md`.
+Markdown
+# 📸 La Granja de Flor - Capturas de Pantalla y Recursos Visuales
+
+Este directorio contiene la Galería de imágenes y las capturas de pantalla utilizadas para la documentación del proyecto y el archivo `README.md` principal del repositorio.
 
 ---
 
-## 🖼️ Gallery
+## 🖼️ Galería de Capturas
 
-### 📱 Main Navigation & UI
-| File | Description |
+### 📱 Navegación Principal e Interfaz de Usuario
+
+| Archivo | Descripción |
 | :--- | :--- |
-| `1b9596ee-61ef-4ac6-a2b2-5453d93faae2.jpg` | Main menu interface showing **Actividades** and **Juegos** selection panels. |
-| `ac4f0b56-102c-43c0-87a7-d78ed8c04246.jpg` | Animal recognition activity showcasing interactive characters in the farm. |
-| `db419521-8329-45f2-88df-9108aff9fad8.jpg` | Animated focus state during animal interaction (Dog zoom effect). |
+| `1b9596ee-61ef-4ac6-a2b2-5453d93faae2.jpg` | Pantalla del Menú Principal con las secciones de **Actividades** y **Juegos**. |
+| `ac4f0b56-102c-43c0-87a7-d78ed8c04246.jpg` | Actividad de reconocimiento de animales e interacción en la granja. |
+| `db419521-8329-45f2-88df-9108aff9fad8.jpg` | Efecto de enfoque / primer plano al interactuar con un animal (Perro). |
 
----
+### 🎨 Actividades Educativas
 
-### 🎨 Educational Activities
-| File | Description |
+| Archivo | Descripción |
 | :--- | :--- |
-| `4a11512d-737e-49c1-a7bd-a6aacc03de51.jpg` | Counting & Numbers activity (Numbers 1 to 9 with animal counts). |
-| `8908a4d4-88cd-4026-8edb-6f802d919f93.jpg` | Colors & Flowers activity with rainbow and interactive colorful flowers. |
+| `4a11512d-737e-49c1-a7bd-a6aacc03de51.jpg` | Actividad de conteo y números (del 1 al 9) con representación de animales. |
+| `8908a4d4-88cd-4026-8edb-6f802d919f93.jpg` | Actividad de aprendizaje de colores mediante flores interactivas y arcoíris. |
 
----
+### 🎮 Minijuegos y Modos de Juego
 
-### 🎮 Mini-Games & Modes
-| File | Description |
+| Archivo | Descripción |
 | :--- | :--- |
-| `71640d6b-f049-4f5d-8834-4d5b4f187ef7.jpg` | **Memory (Memotest)** game with timer, attempts tracker, and matching cards. |
-| `Screenshot_20200712-202717.jpg` | **Flor Dice (Simon Says)** sequence game showing interactive animal buttons and Score / Hi Score. |
+| `71640d6b-f049-4f5d-8834-4d5b4f187ef7.jpg` | Minijuego de **Memory (Memotest)** con contador de tiempo, intentos y fichas. |
+| `Screenshot_20200712-202717.jpg` | Minijuego **Flor Dice (Simón Says)** mostrando botones de animales y puntaje (*Score* / *Hi Score*). |
 
 ---
-
-## 🔗 How to Link Screenshots in the Main README
-
-To reference these images from the root `README.md`, use relative paths like this:
-
-```markdown
-![Main Menu](screenshots/1b9596ee-61ef-4ac6-a2b2-5453d93faae2.jpg)
-```
-
-Or within a HTML table layout:
-
-```html
-<img src="screenshots/4a11512d-737e-49c1-a7bd-a6aacc03de51.jpg" alt="Counting Activity" width="300" />
-```
