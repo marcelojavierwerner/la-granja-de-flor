@@ -12,7 +12,7 @@ Diseñado especialmente para niños en etapa preescolar y primaria, el juego com
 | :---: | :---: | :---: |
 | ![Menú Principal](screenshots/Screenshot_20200501-225008.png) | ![Actividad Números](screenshots/Screenshot_20200326-221450.png) | ![Flores y Colores](screenshots/Screenshot_20200326-221339.png) |
 
-| Minijuego Memory (Parejas) | Reconocimiento de Animales | Simon Dice |
+| Minijuego Memory (Parejas) | Reconocimiento de Animales | Minijuego Simon Dice |
 | :---: | :---: | :---: |
 | ![Minijuego Memoria](screenshots/Screenshot_20200501-225054.png) | ![Animales Granja](screenshots/Screenshot_20200326-220916.png) | ![Score / Puntuación](screenshots/Screenshot_20200712-202717.png) |
 
