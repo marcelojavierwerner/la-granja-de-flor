@@ -1,6 +1,6 @@
 # 🐮 La Granja de Flor 🚜
 
-**La Granja de Flor** es un videojuego educativo interactivo e infantil desarrollado en **Unity (C#)**[cite: 8, 9, 10]. Creado en **2019**, estuvo publicado comercialmente en la tienda **Google Play Store (Android)** desde 2019 hasta 2023.
+**La Granja de Flor** es un videojuego educativo interactivo e infantil desarrollado en **Unity (C#)**. Creado en **2019**, estuvo publicado comercialmente en la tienda **Google Play Store (Android)** desde 2019 hasta 2023.
 
 Diseñado especialmente para niños en etapa preescolar y primaria, el juego combina actividades pedagógicas con minijuegos dinámicos para aprender números, colores, nombres de animales y ejercitar la memoria.
 
@@ -21,16 +21,16 @@ Diseñado especialmente para niños en etapa preescolar y primaria, el juego com
 ## ✨ Características Principales
 
 * 🎨 **Sección de Actividades Educativas:**
-  * **Conteo y Números (1 al 9):** Identificación de números y representación con animales en pantalla[cite: 2, 8].
-  * **Aprende los Colores:** Presentación interactiva de colores con flores animadas[cite: 8].
-  * **Conoce los Animales:** Interacción directa con el gato, perro, vaca, caballo, oveja, gallina, conejo y cerdo[cite: 8].
+  * **Conteo y Números (1 al 9):** Identificación de números y representación con animales en pantalla.
+  * **Aprende los Colores:** Presentación interactiva de colores con flores animadas.
+  * **Conoce los Animales:** Interacción directa con el gato, perro, vaca, caballo, oveja, gallina, conejo y cerdo.
   * **Sección de Cuentos:** Cuentos infantiles e interactivos incorporados.
 * 🎮 **Sección de Minijuegos:**
-  * **Memory / Memotest:** Juego de encontrar parejas con 3 niveles de dificultad ajustables (Fácil, Intermedio, Difícil), cronómetro y menú de victoria[cite: 9].
-  * **Flor Dice (Simón Says):** Minijuego de memoria visual y auditiva basado en la reproducción de secuencias de luz y sonido con animales[cite: 10]. Guarda el récord del jugador (*Hi Score*) en almacenamiento local[cite: 10].
+  * **Memory / Memotest:** Juego de encontrar parejas con 3 niveles de dificultad ajustables (Fácil, Intermedio, Difícil), cronómetro y menú de victoria.
+  * **Flor Dice (Simón Says):** Minijuego de memoria visual y auditiva basado en la reproducción de secuencias de luz y sonido con animales. Guarda el récord del jugador (*Hi Score*) en almacenamiento local.
 * 🛠️ **Panel de Configuración y Menú:**
   * Menús interactivos adaptados para pantallas extendidas de teléfonos modernos.
-  * Ajustes de dificultad, control de música/sonidos, enlaces a redes sociales y acuerdos de privacidad integrados[cite: 9, 10].
+  * Ajustes de dificultad, control de música/sonidos, enlaces a redes sociales y acuerdos de privacidad integrados.
 
 ---
 
@@ -38,10 +38,10 @@ Diseñado especialmente para niños en etapa preescolar y primaria, el juego com
 
 * **Plataforma:** Android (Google Play Store 2019 - 2023)
 * **Motor de Juego:** Unity (Actualizado a Unity 2022)
-* **Lenguaje de Programación:** C# (.NET / Mono)[cite: 8, 9, 10]
-* **UI/UX:** Unity UI (Canvas, Sliders, TextMeshPro, Panels animables)[cite: 9, 10]
-* **Almacenamiento Local:** `PlayerPrefs` para guardado de puntajes más altos (*Hi Score*) y preferencias de usuario[cite: 10].
-* **Sistemas Internos:** Corrutinas de C#[cite: 8, 10], Administrador de Audio (`AudioManagerG`)[cite: 9] y Gestión de Estado (`GameManager`)[cite: 8].
+* **Lenguaje de Programación:** C# (.NET / Mono)
+* **UI/UX:** Unity UI (Canvas, Sliders, TextMeshPro, Panels animables)
+* **Almacenamiento Local:** `PlayerPrefs` para guardado de puntajes más altos (*Hi Score*) y preferencias de usuario.
+* **Sistemas Internos:** Corrutinas de C#, Administrador de Audio (`AudioManagerG`) y Gestión de Estado (`GameManager`).
 
 ---
 
@@ -49,16 +49,16 @@ Diseñado especialmente para niños en etapa preescolar y primaria, el juego com
 
 * **`GameSimon.cs`**:
   * Controla la lógica del minijuego estilo *Simón Says*.
-  * Genera secuencias aleatorias seleccionando botones de animales e incrementando la dificultad progresivamente[cite: 10].
-  * Gestiona temporizadores con `Time.deltaTime` para iluminar los sprites y reproducir efectos de sonido acordes[cite: 10].
-  * Almacena y actualiza la puntuación máxima utilizando `PlayerPrefs` (`HiScore`)[cite: 10].
+  * Genera secuencias aleatorias seleccionando botones de animales e incrementando la dificultad progresivamente.
+  * Gestiona temporizadores con `Time.deltaTime` para iluminar los sprites y reproducir efectos de sonido acordes.
+  * Almacena y actualiza la puntuación máxima utilizando `PlayerPrefs` (`HiScore`).
 * **`GameManager.cs`**:
-  * Controla el ciclo de vida de las actividades y la aparición secuencial de personajes y elementos interactivos en pantalla mediante `Coroutines`[cite: 8].
-  * Administra el despliegue del conteo numérico (1 al 9) y la activación/desactivación temporizada de las caras de animales y colores[cite: 8].
+  * Controla el ciclo de vida de las actividades y la aparición secuencial de personajes y elementos interactivos en pantalla mediante `Coroutines`.
+  * Administra el despliegue del conteo numérico (1 al 9) y la activación/desactivación temporizada de las caras de animales y colores.
 * **`InterfazUsuario.cs`**:
-  * Maneja la lógica de menús (Menú principal, Menú de ganadores, Paneles de configuración)[cite: 9].
-  * Controla la dificultad del minijuego de memoria (Fácil, Intermedio, Difícil)[cite: 9].
-  * Sistema de cronómetro integrado mediante `TimeSpan` para medir el tiempo del jugador[cite: 9].
+  * Maneja la lógica de menús (Menú principal, Menú de ganadores, Paneles de configuración).
+  * Controla la dificultad del minijuego de memoria (Fácil, Intermedio, Difícil).
+  * Sistema de cronómetro integrado mediante `TimeSpan` para medir el tiempo del jugador.
 
 ---
 
