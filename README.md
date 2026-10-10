@@ -10,11 +10,11 @@ Diseñado especialmente para niños en etapa preescolar y primaria, el juego com
 
 | Menú Principal | Números y Conteo | Juego de Flores y Colores |
 | :---: | :---: | :---: |
-| ![Menú Principal](Screenshot_20200501-225008.png) | ![Actividad Números](Screenshot_20200326-221450.png) | ![Flores y Colores](Screenshot_20200326-221339.png) |
+| ![Menú Principal](screenshots/Screenshot_20200501-225008.png) | ![Actividad Números](screenshots/Screenshot_20200326-221450.png) | ![Flores y Colores](screenshots/Screenshot_20200326-221339.png) |
 
 | Minijuego Memory (Parejas) | Reconocimiento de Animales | Modo Desafío / Puntuación |
 | :---: | :---: | :---: |
-| ![Minijuego Memoria](Screenshot_20200501-225054.png) | ![Animales Granja](Screenshot_20200326-220916.png) | ![Score / Puntuación](Screenshot_20200712-202717.png) |
+| ![Minijuego Memoria](screenshots/Screenshot_20200501-225054.png) | ![Animales Granja](screenshots/Screenshot_20200326-220916.png) | ![Score / Puntuación](screenshots/Screenshot_20200712-202717.png) |
 
 ---
 
