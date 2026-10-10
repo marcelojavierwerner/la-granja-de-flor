@@ -10,7 +10,7 @@ Este directorio contiene la Galería de imágenes y las capturas de pantalla uti
 
 | Archivo | Descripción |
 | :--- | :--- |
-| `Screenshot_20200501-225008.png` | Pantalla del Menú Principal con las secciones de **Actividades** y **Juegos**. |
+| ![Pantalla Principal](Screenshot_20200501-225008.png) | Pantalla del Menú Principal con las secciones de **Actividades** y **Juegos**. |
 | `Screenshot_20200326-220916.png` | Actividad de reconocimiento de animales e interacción en la granja. |
 | `Screenshot_20200326-220926.png` | Efecto de enfoque / primer plano al interactuar con un animal (Perro). |
 
