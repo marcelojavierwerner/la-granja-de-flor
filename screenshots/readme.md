@@ -1,6 +1,3 @@
-¡Claro que sí! Acá tenés el contenido listo en formato de bloque Markdown para que lo puedas copiar y pegar directamente:
-
-Markdown
 # 📸 La Granja de Flor - Capturas de Pantalla y Recursos Visuales
 
 Este directorio contiene la Galería de imágenes y las capturas de pantalla utilizadas para la documentación del proyecto y el archivo `README.md` principal del repositorio.
